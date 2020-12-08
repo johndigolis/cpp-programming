@@ -21,6 +21,9 @@ void printproduct(product pr4)
 
 int main()
 {
+    
+    //this is just for the dr4 project
+    
     /*int userInput;
     std::cout << "This is a test\nEnter a number: ";
     std::cin >> userInput;
